@@ -1,0 +1,10 @@
+node_modules
+dist
+.env.local
+.env.*.local
+supabase/.temp
+supabase/.branches
+.idea
+.vscode
+*.log
+coverage
